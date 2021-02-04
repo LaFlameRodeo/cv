@@ -1,0 +1,40 @@
+/*TAG-who{PROPERTY-what:VALUE-which/how;} CSS SYNATX LAYOUT*/
+/*******************TAG SELECTORS************************/
+
+
+body {
+  background-color: lightcyan;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  COLOR: #66BFBF;
+  letter-spacing: 0.5rem;
+}
+
+img {
+  height: 100px;
+}
+
+.web {
+  font-size: 20px;
+}
+
+p{
+  font-family: sans-serif;
+}
+
+/*******************CLASS SELECTORS************************/
+
+/*******************ID SELECTORS************************/
